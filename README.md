@@ -11,7 +11,7 @@ For that I have used Node.Js and SQL server. I have created REST api in Node.Js 
 - [SQL Server](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://docs.microsoft.com/en-gb/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
 
-## Let’s Begin…..
+
 1. Installation:
 Please follow the above links to download/install the software.
 
