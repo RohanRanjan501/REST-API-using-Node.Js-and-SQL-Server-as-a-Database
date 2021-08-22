@@ -5,19 +5,6 @@ Every year in programming world people are moving to open source technologies li
 Therefore to solve above question, I am going to demonstrate how application build on open source techs talk to legacy database. 
 For that I have used Node.Js and SQL server. I have created REST api in Node.Js which does CRUD operation over SQL server database. In this project I have used stored procedure and query both to perform actions.
 
-## What Requires?
-- [VS Code](https://code.visualstudio.com/download)
-- [Node JS](https://nodejs.org/)
-- [SQL Server](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)
-- [SQL Server Management Studio](https://docs.microsoft.com/en-gb/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
-
-
-1. Installation:
-Please follow the above links to download/install the software.
-
-2. Setup Database :
-Create a new database(e.g. Company) using SSMS. 
-Then execute the below script to create tables & stored procedures.
 
 ```sql
 CREATE TABLE [dbo].[Tbl_Department] (
