@@ -304,11 +304,5 @@ Now run your API
 node app.js
 ```
 
-## If you follow the above steps:
 
-- you’ll have a consistent architecture for Node API with SQL server integration: in small or big apps.
-- your modules of global services(dbContext) and your modules of reusable components are ready to be packaged as libraries, reusable in other projects,
-- you’ll be able to do unit tests without crying.
-
-The goal of this post is also to confront this code with the community, ie. you who is reading. Please feel free to comment.
  
